@@ -1,9 +1,9 @@
 # site properties and page defaults
-title: MiroLab at UMKC.
+title: MiroLab at UMKC
 subtitle: Multiplatform Interactive Robotics Laboratory
 description: 
-header: images/background.jpg
-footer: images/background.jpg
+header: images/blueBackgroud.png
+footer: images/blueBackgroud.png
 proofer: false
 
 # site social media and other links
