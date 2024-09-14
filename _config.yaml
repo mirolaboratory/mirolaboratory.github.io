@@ -1,7 +1,9 @@
 # site properties and page defaults
 title: MiroLab
 subtitle: Multiplatform Interactive Robotics Laboratory
-description: 
+description: |
+  University of Missouri-Kansas City
+  Department of Mechanical Engineering
 header: images/blueBackgroud.png
 footer: images/blueBackgroud.png
 proofer: false
