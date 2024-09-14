@@ -34,6 +34,10 @@
         {% if site.subtitle and site.show-subtitle != false %}
           <span class="subtitle">{{ site.subtitle }}</span>
         {% endif %}
+        <!-- Add the description here -->
+        {% if site.description %}
+          <p class="site-description">{{ site.description }}</p>
+        {% endif %}
       </span>
     {% endif %}
   </a>
