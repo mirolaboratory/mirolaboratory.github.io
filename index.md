@@ -1,9 +1,9 @@
 ---
 ---
 
-# Multiplatform Interactive Robotics Lab
+# Welcome to MiroLab
 
-
+Robots are awesome!
 
 {% include section.html %}
 
