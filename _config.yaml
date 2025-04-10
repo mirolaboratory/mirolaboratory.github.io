@@ -8,12 +8,12 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@mirolaboratoryDESCRIPTION=An engaging 1-3 sentence description of your lab..com
-  orcid: 0000-0001-8713-9213
+  email: hshin@umkc.edu
+  #orcid: 0000-0001-8713-9213
   google-scholar: ETJoidYAAAAJ
-  github: mirolaboratoryDESCRIPTION=An engaging 1-3 sentence description of your lab.
-  twitter: mirolaboratoryDESCRIPTION=An engaging 1-3 sentence description of your lab.
-  youtube: mirolaboratoryDESCRIPTION=An engaging 1-3 sentence description of your lab.
+  github: https://github.com/mirolaboratoryDESCRIPTION=An engaging 1-3 sentence description of your lab.
+  #twitter: mirolaboratoryDESCRIPTION=An engaging 1-3 sentence description of your lab.
+  #youtube: mirolaboratoryDESCRIPTION=An engaging 1-3 sentence description of your lab.
 
 ### jekyll settings
 
