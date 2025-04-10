@@ -26,15 +26,15 @@ jobs:
       - name: Checkout branch contents
         uses: actions/checkout@v4
 
-      - name: Manually install Ruby
-        run: |
-          sudo apt update
-          sudo apt install -y ruby-full build-essential
-          ruby --version
-          sudo gem install bundler
+- name: Manually install Ruby
+  run: |
+    sudo apt update
+    sudo apt install -y ruby-full build-essential
+    ruby --version
+    sudo gem install bundler -v 2.5.6
 
-      - name: Install Ruby dependencies
-        run: bundle install
+- name: Install Ruby dependencies
+  run: bundle install --path vendor/bundle
 
       - name: Get Pages url
         id: pages
