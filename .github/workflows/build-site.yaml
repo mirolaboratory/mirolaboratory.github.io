@@ -31,7 +31,7 @@ jobs:
           sudo apt update
           sudo apt install -y ruby-full build-essential
           ruby --version
-          gem install bundler
+          sudo gem install bundler
 
       - name: Install Ruby dependencies
         run: bundle install
